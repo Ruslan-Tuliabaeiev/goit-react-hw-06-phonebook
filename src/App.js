@@ -22,22 +22,6 @@ return visibleContacts
   
 }
 
-// const deleteContacts = (id) => {
-//  setContacts(prevState =>  [...prevState.filter(contact => contact.id !== id)] )
-// }
-
-
-// const handleSubmit = ({name, id,  number}) => {
- 
-//   const findName = contacts.find(contact => contact.name === name)
-//   if (findName){
-//     alert('This name is already in the phone book')
-//   } else { const contact = { name, number, id}
-//    setContacts(prevState => [contact, ...prevState] )}
-
-// }
-
-
 
 
    return (
